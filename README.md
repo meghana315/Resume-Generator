@@ -31,6 +31,17 @@ You can view the live demo of the Resume Generator here:
 ![Resume Generator Form](assets/images/form1.png)
 ![Resume Generator Form](assets/images/form2.png)
 
+### Generated Resume
+![Generated Resume](assets/images/res.png)
+# Future Plans
+We have exciting plans for the Resume Generator:
+
+- Implement user reviews and ratings for resume templates.
+- Integrate real-time preview of the resume.
+- Expand support for multiple languages and formats.
+- Enhance the user interface with additional themes.
+
+
 
  
 
