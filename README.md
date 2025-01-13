@@ -18,7 +18,9 @@ You can view the live demo of the Resume Generator here:
 • Work Experience Section: Users can input details about their previous jobs and roles.
   
 • Skills Section: Add relevant skills for the resume.
+
 • Download/Print Resume: After generating the resume, users can easily download it as a PDF or print it directly.
+
 • Responsive design: The app is responsive and works well on mobile, tablet, and desktop.
 
 
