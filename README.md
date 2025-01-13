@@ -26,6 +26,11 @@ You can view the live demo of the Resume Generator here:
 - HTML
 - CSS
 - JavaScript (Vanilla)
+# Screenshots of the Project
+### Resume Generator Form
+![Resume Generator Form](assets/images/form1.png)
+![Resume Generator Form](assets/images/form2.png)
+
 
  
 
