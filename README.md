@@ -27,5 +27,5 @@ You can view the live demo of the Resume Generator here:
 - CSS
 - JavaScript (Vanilla)
 
-
+ 
 
