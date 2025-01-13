@@ -22,5 +22,10 @@ You can view the live demo of the Resume Generator here:
 • Download/Print Resume: After generating the resume, users can easily download it as a PDF or print it directly.
 
 • Responsive design: The app is responsive and works well on mobile, tablet, and desktop.
+# Technologies Used 
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
 
 
