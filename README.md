@@ -4,5 +4,6 @@ The Resume Generator is an easy-to-use web application designed to help users cr
 Built using HTML, CSS, and JavaScript, this project offers an intuitive interface with a simple, clean design for users to input their information and download their resumes instantly.
 # Live Website
 You can view the live demo of the Resume Generator here:
+
 [Live Website Link: Resume Generator](https://meghana315.github.io/Resume-Generator)
 
