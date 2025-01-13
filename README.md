@@ -5,5 +5,5 @@ Built using HTML, CSS, and JavaScript, this project offers an intuitive interfac
 # Live Website
 You can view the live demo of the Resume Generator here:
 
-• Website Link: Resume Generator [Live Website Link: Resume Generator](https://meghana315.github.io/Resume-Generator)
+• Live Website Link: [Resume Generator](https://meghana315.github.io/Resume-Generator)
 
