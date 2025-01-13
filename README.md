@@ -5,23 +5,23 @@ Built using HTML, CSS, and JavaScript, this project offers an intuitive interfac
 # Live Website
 You can view the live demo of the Resume Generator here:
 
-• Live Website Link: [Resume Generator](https://meghana315.github.io/Resume-Generator)
+- Live Website Link: [Resume Generator](https://meghana315.github.io/Resume-Generator)
 
 ![Resume Page Screenshot](assets/images/resumepage.png)
 # Features
-• User-friendly interface: Clean and simple design for easy resume creation.
+- User-friendly interface: Clean and simple design for easy resume creation.
 
-• Personal Information Form: Users can input their name, contact details,and personal summary.
+- Personal Information Form: Users can input their name, contact details,and personal summary.
 
-• Education Section: Allows users to add their educational qualifications.
+- Education Section: Allows users to add their educational qualifications.
 
-• Work Experience Section: Users can input details about their previous jobs and roles.
+- Work Experience Section: Users can input details about their previous jobs and roles.
 
-• Skills Section: Add relevant skills for the resume.
+- Skills Section: Add relevant skills for the resume.
 
-• Download/Print Resume: After generating the resume, users can easily download it as a PDF or print it directly.
+- Download/Print Resume: After generating the resume, users can easily download it as a PDF or print it directly.
 
-• Responsive design: The app is responsive and works well on mobile, tablet, and desktop.
+- Responsive design: The app is responsive and works well on mobile, tablet, and desktop.
 # Technologies Used 
 - HTML
 - CSS
