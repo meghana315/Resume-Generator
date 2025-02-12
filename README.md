@@ -41,6 +41,15 @@ We have exciting plans for the Resume Generator:
 - Expand support for multiple languages and formats.
 - Enhance the user interface with additional themes.
 
+## Disclaimer
+
+This repository is **for educational purposes only**. By accessing the code, you agree that you will **not**:
+
+- Use the code to deploy or create a live application.
+- Redistribute, modify, or use the code for commercial purposes without prior permission.
+- Modify or use the code in a way that may allow for deployment.
+
+Please respect the terms and conditions outlined above.
 
 
  
